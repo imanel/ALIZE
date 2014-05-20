@@ -1,13 +1,15 @@
+.deps
 Makefile
 Makefile.in
 aclocal.m4
 autom4te.cache
+bin/*
 compile
 config.log
 config.status
 configure
 lib/*
 libtool
-src/.deps
 
+!bin/.gitkeep
 !lib/.gitkeep
